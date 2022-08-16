@@ -10,7 +10,7 @@ Dusha is a bi-modal corpus suitable for speech emotion recognition (SER) tasks. 
 
 ## **Dataset structure**
 
-| Domain         | Nunder of Files | Duration (Hr.) | Unique Speakers |
+| Domain         | Number of Files | Duration (Hr.) | Unique Speakers |
 |----------------|------------|--------|---------|
 | Crowd          | 201 850    | 255.7  | 2068    |
 | Podcast        | 102 113    |  90.9  | 6240    |
