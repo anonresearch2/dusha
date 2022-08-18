@@ -6,6 +6,8 @@ Dusha is a bi-modal corpus suitable for speech emotion recognition (SER) tasks. 
 
 - [Dataset structure](https://github.com/anonresearch2/dusha/#dataset-structure)
 - [Downloads](https://github.com/anonresearch2/dusha/#downloads)
+- [Data processing](https://github.com/anonresearch2/dusha/tree/main/data_processing)
+- [Experiments](https://github.com/anonresearch2/dusha/tree/main/experiments)
 - [Contacts](https://github.com/anonresearch2/dusha/#contacts)
 
 ## **Dataset structure**
@@ -19,11 +21,11 @@ Dusha is a bi-modal corpus suitable for speech emotion recognition (SER) tasks. 
 ---
 ## **Downloads**
 
-| Archives          | Size       |  Links              |
-|-------------------|------------|---------------------|
-| crowd.tar         | 28 GB      | https://sc.link/L   |
-| podcast.tar       | 360 MB     | https://sc.link/M   |
-| features.tar      | 30 GB      | https://sc.link/N   |
+| Archives          | Size       |  Links               |
+|-------------------|------------|----------------------|
+| crowd.tar         | 28 GB      | https://sc.link/Ax2l |
+| podcast.tar       | 360 MB     | https://sc.link/zoEy |
+| features.tar      | 30 GB      | https://sc.link/By2Y |
 
 ---
 
