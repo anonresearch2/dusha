@@ -1,4 +1,4 @@
-Ones you processed Dusha dataset or downloaded precalculated features you have folder with manifests and features in `DATASET_PATH`
+Once you processed dataset Dusha or downloaded precalculated features, you have a folder with manifests and features in `DATASET_PATH`
 (by default `DUSHA_REPOSITORY_PATH/data/processed_dataset`)
 
 ## Preparing
