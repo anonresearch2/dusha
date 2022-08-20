@@ -137,7 +137,7 @@ def run_single_inf(exp_path, test_manifest, with_metrics, recalculate, device):
         probas = torch.cat(running_outputs).cpu().numpy()
 
         _df[AUDIO_COLS[0]] = pred_class
-        for i in range(3):
+        for i in range(4):
             _df[AUDIO_COLS[i + 1]] = probas[:, i]
 
         # match preds by id

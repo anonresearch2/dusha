@@ -14,6 +14,10 @@ Run the processing:
 
     python processing.py -dataset_path  DATASET_PATH -tsv
 
-You can also change the threshold for aggregation.
+You can also change the threshold for aggregation
     
     python processing.py  -dataset_path  DATASET_PATH -threshold THRESHOLD
+
+and force recalculate features
+
+    python processing.py  -dataset_path  DATASET_PATH  -rf

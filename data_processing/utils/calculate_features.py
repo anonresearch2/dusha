@@ -59,7 +59,7 @@ def create_features(
 
         if not data_to_culc:
             print(
-                f"All({len(data)}/{len(wavs_names)}) features have been calculated for {dataset_name}"
+                f"All({len({wav for wav in wavs_names if wav in ready_features})}/{len(wavs_names)}) features have been calculated for {dataset_name}"
             )
             return
 

@@ -84,7 +84,7 @@ class Learner:
         ]
 
         comment_str = "_".join(comment_str_list)
-        summary_writer = SummaryWriter(comment=comment_str)
+        summary_writer = SummaryWriter(log_dir=self.exp_path / 'TB_log' / comment_str)
 
         criterion = nn.CrossEntropyLoss()
         optimizer = Adam(self.model.parameters(), lr=lr, weight_decay=weight_decay)
