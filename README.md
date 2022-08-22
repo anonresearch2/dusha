@@ -4,11 +4,12 @@ Dusha is a bi-modal corpus suitable for speech emotion recognition (SER) tasks. 
 
 # Table of contents
 
-- [Dataset structure](https://github.com/anonresearch2/dusha/#dataset-structure)
+- [Dataset Structure](https://github.com/anonresearch2/dusha/#dataset-structure)
 - [Downloads](https://github.com/anonresearch2/dusha/#downloads)
-- [Data processing](https://github.com/anonresearch2/dusha/tree/main/data_processing)
-- [Experiments](https://github.com/anonresearch2/dusha/tree/main/experiments)
+- [Raw Data Processing](https://github.com/anonresearch2/dusha/tree/main/data_processing)
+- [Run and Evaluate Experiments](https://github.com/anonresearch2/dusha/tree/main/experiments) 
 - [Contacts](https://github.com/anonresearch2/dusha/#contacts)
+
 
 ## **Dataset structure**
 
@@ -21,15 +22,18 @@ Dusha is a bi-modal corpus suitable for speech emotion recognition (SER) tasks. 
 ---
 ## **Downloads**
 
+According to the license issue, we can't provide audio files of podcasts. We provide the whole set of precalculated features and a list of links to podcasts with timings where you can listen to original sound.
+
 | Archives          | Size       |  Links               |
 |-------------------|------------|----------------------|
-| crowd.tar         | 28 GB      | https://sc.link/Ax2l |
+| crowd.tar         | 28 GB      | https://sc.link/ByGN |
 | podcast.tar       | 360 MB     | https://sc.link/zoEy |
 | features.tar      | 30 GB      | https://sc.link/By2Y |
 
----
 
+With this repository you can perform [raw data processing](https://github.com/anonresearch2/dusha/tree/main/data_processing) or [run and evaluate experiments](https://github.com/anonresearch2/dusha/tree/main/experiments).
+
+---
 ## **Contacts**
 
 Please create a GitHub issue!
-
