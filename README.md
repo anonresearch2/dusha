@@ -29,6 +29,7 @@ According to the license issue, we can't provide audio files of podcasts. We pro
 | crowd.tar         | 28 GB      | https://sc.link/ByGN |
 | podcast.tar       | 360 MB     | https://sc.link/zoEy |
 | features.tar      | 30 GB      | https://sc.link/By2Y |
+| paper_setups.tgz  | 16 MB      | https://sc.link/mPmO |
 
 
 With this repository you can perform [raw data processing](https://github.com/anonresearch2/dusha/tree/main/data_processing) or [run and evaluate experiments](https://github.com/anonresearch2/dusha/tree/main/experiments).
